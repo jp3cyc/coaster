@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name akizuki_sensor)(type Legacy)(uri C:/Users/kousuke/KiCadLibrary/akizuki_sensor.lib)(options "")(descr ""))
+  (lib (name cyc_descreat)(type Legacy)(uri C:/Users/kousuke/KiCadLibrary/cyc_descreat.lib)(options "")(descr ""))
+  (lib (name mylib)(type Legacy)(uri C:/Users/kousuke/Dropbox/KiCad_lib/mylib.lib)(options "")(descr ""))
+  (lib (name coaster-rescue)(type Legacy)(uri ${KIPRJMOD}/coaster-rescue.lib)(options "")(descr ""))
+)
